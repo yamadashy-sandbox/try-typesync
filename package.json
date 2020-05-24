@@ -6,6 +6,7 @@
   "author": "Kazuki Yamada <koukun0120@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "preinstall": "typesync | :"
   },
   "devDependencies": {
     "eslint": "^7.1.0",
