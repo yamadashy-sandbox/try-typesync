@@ -5,6 +5,9 @@
   "repository": "https://github.com/yamadashy-sandbox/try-typesync.git",
   "author": "Kazuki Yamada <koukun0120@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "preinstall": "typesync | :"
+  },
   "devDependencies": {
     "eslint": "^7.1.0",
     "jest": "^26.0.1",
