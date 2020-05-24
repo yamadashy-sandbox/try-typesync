@@ -10,12 +10,21 @@
   },
   "devDependencies": {
     "eslint": "^7.1.0",
+    "jasmine": "^3.5.0",
     "jest": "^26.0.1",
+    "karma": "^5.0.9",
     "typesync": "^0.6.1"
   },
   "dependencies": {
+    "@angular/common": "^9.1.9",
+    "@angular/compiler": "^9.1.9",
+    "@angular/core": "^9.1.9",
+    "gatsby": "^2.22.9",
     "jquery": "^3.5.1",
+    "next": "^9.4.2",
+    "nuxt": "^2.12.2",
     "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "vue": "^2.6.11"
   }
 }
