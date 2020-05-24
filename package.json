@@ -6,7 +6,6 @@
   "author": "Kazuki Yamada <koukun0120@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "preinstall": "typesync | :"
   },
   "devDependencies": {
     "eslint": "^7.1.0",
@@ -19,12 +18,22 @@
     "@angular/common": "^9.1.9",
     "@angular/compiler": "^9.1.9",
     "@angular/core": "^9.1.9",
+    "axios": "^0.19.2",
     "gatsby": "^2.22.9",
     "jquery": "^3.5.1",
     "next": "^9.4.2",
     "nuxt": "^2.12.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "vue": "^2.6.11"
+    "react-redux": "^7.2.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-router-redux": "^4.0.8",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "superagent": "^5.2.2",
+    "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
+    "vue-router": "^3.2.0"
   }
 }
