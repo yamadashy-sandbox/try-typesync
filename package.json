@@ -1,0 +1,18 @@
+{
+  "name": "try-typesync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yamadashy-sandbox/try-typesync.git",
+  "author": "Kazuki Yamada <koukun0120@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "jest": "^26.0.1",
+    "typesync": "^0.6.1"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "react": "^16.13.1",
+    "vue": "^2.6.11"
+  }
+}
